@@ -2,7 +2,7 @@
 
 ## Video explain
 
-* Foo
+[Bloc n°2 : Analyse exploratoire, descriptive et inférentielle de données.](https://youtu.be/30RdyQbVUVM "Bloc n°2")
 
 ## Challenge description
 
