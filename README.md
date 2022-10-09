@@ -1,4 +1,7 @@
 # Bloc n°2 : Analyse exploratoire, descriptive et inférentielle de données.
+## Contact 
+
+[voguant-cal0n@icloud.com](mailto:voguant-cal0n@icloud.com)
 
 ## Video explain
 
